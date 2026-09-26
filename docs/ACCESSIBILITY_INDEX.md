@@ -3,10 +3,11 @@
 This file is maintained from changed product manuals.
 
 ## Open Findings
-- [ ] catalog :: Product cards need a contrast fix [SC-111] — owner: Priya — source `manuals/catalog/accessibility.md:7`
+- [ ] catalog :: Keyboard focus order [SC-101] — owner: Mina — source `manuals/catalog/accessibility.md:8`
+- [ ] checkout :: Error message lacks a programmatic association [SC-205] — owner: unassigned — source `manuals/checkout/accessibility.md:14`
 
 ## Resolved Findings
-- [x] catalog :: Gallery images expose alt text [SC-125] — owner: Ravi — source `manuals/catalog/accessibility.md:11`
+- [x] catalog :: Skip link has an accessible name [SC-101] — owner: Omar — source `manuals/catalog/accessibility.md:19`
 
 ## Editorial Notes
 Keep the index limited to changed manuals.
